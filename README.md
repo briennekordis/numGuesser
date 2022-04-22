@@ -2,7 +2,7 @@
 numGuesser
 
 ## General Info & Description
-A PHP project from Codecademy's [Learn PHP](https://www.codecademy.com/learn/learn-php) course that uses conditionals to make a number guessing game
+A guided project from Codecademy's [Learn PHP](https://www.codecademy.com/learn/learn-php) course that uses conditionals to make a number guessing game
 that can be played from the command line.
 
 ## Tools & Technologies
